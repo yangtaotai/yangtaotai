@@ -2,7 +2,6 @@
 - 👀 I’m interested in learning new things, especially in programming, data science, data engineering.
 - 🌱 I’m currently learning git, data structure, python
 --😉 I'm planning to learn more about NLP, etc.
-- 💞️ I’m looking to collaborate on ??? I don't think I am at the level to contribute yet but I will imporve and look forward to collobarate with people in future!
 - 📫 How to reach me: private message
 
 <!---
